@@ -8,3 +8,9 @@ function cancel(){
     navbar.style.transform = "translateY(-500px)"
 }
 
+const texts = [
+    "DEVELOPER",
+    "YOUTUBER",
+    "PROGRAMMER"
+]
+
